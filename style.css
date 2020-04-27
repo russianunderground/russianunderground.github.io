@@ -312,7 +312,7 @@ body {
 .contacts {
 	/*position: absolute;*/
 	/*bottom: 0px;*/
-	margin-top: 1%;
+	padding-top: 1%;
 	width:100%;
 	clear: left;
 	text-align: center;
